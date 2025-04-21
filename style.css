@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.pic-item{
+    height: 580px;
+}
+
+.pic-img{
+    height: 100%;
+    object-fit: cover;
+    filter: brightness(0.5);
+    
+}
+/* .pic-img{
+    background-color: white;
+} */
+
+.txt-cont{
+    background-color: black;
+}
+
+.txt{
+    text-decoration: line-through;
+}
+
+.btn{
+    height: 50px;
+    width: 150px;
+    background-color: black !important;
+    color: white !important;
+  }
+
